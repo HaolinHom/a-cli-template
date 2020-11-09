@@ -1,5 +1,4 @@
-function build(context, args) {
-  console.log('wu-cli build.');
-}
 
-module.exports = build;
+module.exports = function (context, args) {
+  console.log('wu-cli build');
+};

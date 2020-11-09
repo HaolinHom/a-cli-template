@@ -1,5 +1,4 @@
-function publish(context, args) {
-  console.log('wu-cli publish.');
-}
 
-module.exports = publish;
+module.exports = function (context, args) {
+  console.log('wu-cli publish');
+};
