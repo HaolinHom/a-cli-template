@@ -1,4 +1,3 @@
-
 module.exports = function (context, args) {
-  console.log('wu-cli dev');
+  console.log('a-cli dev');
 };
